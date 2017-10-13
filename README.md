@@ -1,6 +1,13 @@
 # Kids, Inc.
 
 
+1. Pencil — All grades (H,B,F), 2.0 mm diameter of the graphite, 9.0 mm diameter and 19.0 cm of length, with a cap (11.0 mm in diameter and 3.0 cm in length with 5.0 mm cavity to protect the graphite lead).
+2. Aluminium Pencil Sharpener, with (4) blades. A to Z letters written on back side, and space of writing 9 letters to name of kids.
+
+
+References:
+
+
 Thermal and Electrical Conductivity of Graphite and Carbon at Low Temperatures  
 
 
